@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Dr. Bruna Shinohara is a Staff Scientist specialized in Quantum Technologies at CMC Microsystems. Her work comprises quantum algorithm development as well as quantum education. She holds a PhD in Physics, focusing on Condensed Matter Theory and Quantum Computation. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Bruna is a dedicated science communicator, with numerous Portuguese and English content in Quantum Science and Technologies, including two articles featured on the official Qiskit Medium, podcasts and popular science magazines. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+She also developed and delivered courses on Quantum Computing to universities and organizations. Her contributions have been awarded by University of Sao Paulo, Quantum Innovation Summit and UnitaryHack.
