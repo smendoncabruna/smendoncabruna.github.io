@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Dr. Bruna Shinohara is a Staff Scientist specialized in Quantum Technologies at CMC Microsystems. Her work comprises quantum algorithm development as well as quantum education. She holds a PhD in Physics, focusing on Condensed Matter Theory and Quantum Computation. 
+While she specializes in quantum algorithm development, Dr. Bruna Shinohara de Mendonça is also a passionate science communicator and educator. She holds a PhD in Physics from the University of São Paulo, with research contributing to advancements in topological quantum computing.
 
-Bruna is a dedicated science communicator, with numerous Portuguese and English content in Quantum Science and Technologies, including two articles featured on the official Qiskit Medium, podcasts and popular science magazines. 
+Shinohara de Mendonça also co-founded QBrasil, a free initiative to popularize quantum technologies in Portuguese, and developed the first mini-course on quantum computing for undergraduate physics students at the University of São Paulo, reaching over 160 participants. She actively engages in public discourse on ethical considerations in quantum technologies, including global inequities in access and impact, and has presented her insights in the U.S., Netherlands, Brazil, and South Korea.
 
-She also developed and delivered courses on Quantum Computing to universities and organizations. Her contributions have been awarded by University of Sao Paulo, Quantum Innovation Summit and UnitaryHack.
+In addition, Shinohara de Mendonça shares her expertise online, including appearances on Brazil’s high-profile podcast Inteligência Ltda, and reaching over 17,000 followers online. Her work integrates technical expertise, education, and outreach, driven by a commitment to democratizing knowledge and making quantum science accessible worldwide.
