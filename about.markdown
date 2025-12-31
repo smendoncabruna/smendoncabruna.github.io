@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+![LinkedIn Photo](/linkedin_pfp.jpg)
 
 While she specializes in quantum algorithm development, Dr. Bruna Shinohara de Mendonça is also a passionate science communicator and educator. She holds a PhD in Physics from the University of São Paulo, with research contributing to advancements in topological quantum computing.
 
